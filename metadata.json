@@ -1,0 +1,6 @@
+{
+  "name": "AgriShield - Crop Disease Alert & Productivity System",
+  "description": "AI-powered crop disease early warning, instant multimodal leaf diagnostic, localized organic/chemical treatment advisories, and community outbreak radar for smallholder farmers and local agri-businesses.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
